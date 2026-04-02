@@ -41,3 +41,19 @@ End-to-end business analysis of 9,994 retail orders using SQL, Python, and Power
 - **SQL** — aggregations, GROUP BY, HAVING, SUBSTR for date parsing, margin calculations
 - **Python** — pandas EDA, matplotlib/seaborn visualisation, feature engineering (Days to Ship), Claude API integration for automated executive summaries
 - **Power BI** — interactive dashboard, DAX measures, slicers, map visualisation
+
+- ---
+
+## Business Recommendations
+
+Based on the analysis, here are the prioritized actions with the highest expected impact:
+
+1. **Discontinue or restructure the Tables sub-category** — With -$17.7K profit on $206K in sales, Tables is the single highest-priority fix. Options include renegotiating supplier/shipping contracts, introducing a minimum order value, or phasing out the product line entirely. Estimated impact: $15-20K annual profit recovery.
+
+2. **Implement discount caps on Furniture** — Furniture averages 17.39% discount yet delivers only 2.49% margin. Capping discounts at 10% on Furniture would meaningfully improve margins without significantly impacting volume based on the discount-profit correlation observed.
+
+3. **Investigate Central region logistics** — Central posts 7.92% margin vs 14.94% in the West on similar sales volume. The gap is too large to be explained by product mix alone. A logistics cost and discount pattern audit in Central is the recommended next step.
+
+4. **Protect the 2016 margin peak** — Profit margin peaked at 13.43% in 2016 then dipped to 12.74% in 2017 despite record sales. Understanding what drove the 2016 peak — likely a better category mix — and replicating it is more valuable than chasing raw revenue growth.
+
+> **Note:** These recommendations are based on transaction-level data only. A full cost accounting analysis including logistics, returns, and overheads would be required before implementing any structural changes.
