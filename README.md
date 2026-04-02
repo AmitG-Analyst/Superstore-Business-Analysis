@@ -54,6 +54,4 @@ Based on the analysis, here are the prioritized actions with the highest expecte
 
 3. **Investigate Central region logistics** — Central posts 7.92% margin vs 14.94% in the West on similar sales volume. The gap is too large to be explained by product mix alone. A logistics cost and discount pattern audit in Central is the recommended next step.
 
-4. **Protect the 2016 margin peak** — Profit margin peaked at 13.43% in 2016 then dipped to 12.74% in 2017 despite record sales. Understanding what drove the 2016 peak — likely a better category mix — and replicating it is more valuable than chasing raw revenue growth.
-
 > **Note:** These recommendations are based on transaction-level data only. A full cost accounting analysis including logistics, returns, and overheads would be required before implementing any structural changes.
