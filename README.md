@@ -44,6 +44,15 @@ End-to-end business analysis of 9,994 retail orders using SQL, Python, and Power
 
 ---
 
+---
+
+## Analytical Approach
+
+This project documents not just correct solutions but the reasoning behind failed approaches. Q7 includes a non-functional STRFTIME query for date parsing alongside the corrected SUBSTR solution, with an explanation of why SQLite's date format causes the failure. Understanding why an approach fails is as analytically valuable as knowing the correct one.
+
+---
+
+
 ## Business Recommendations
 
 Based on the analysis, here are the prioritized actions with the highest expected impact:
