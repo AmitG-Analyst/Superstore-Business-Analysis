@@ -57,7 +57,7 @@ Based on the analysis, here are the prioritized actions with the highest expecte
 
 1. **Discontinue or restructure the Tables sub-category** — Tables generated -$17,725.48 in losses on $206,965.53 in sales over the analysis period. Eliminating this loss through pricing restructure or discontinuation represents a direct $17,725.48 profit recovery. Options include renegotiating supplier/shipping contracts or phasing out the product line entirely.
 
-2. **Implement discount caps on Furniture** — Furniture averages 17.39% discount yet delivers only 2.49% margin. Capping discounts at 10% on Furniture would meaningfully improve margins without significantly impacting volume based on the discount-profit correlation observed.
+2. **Implement discount caps on Furniture** — A discount bracket analysis of all Furniture orders reveals a clear profitability cliff beyond 10% discount. Orders with no discount deliver 22.71% margin. Orders at 1–10% discount deliver 15.25% margin. Beyond 10%, margin collapses to 3.15% at 11–20% discount, turns loss-making at -10.75% for 21–30%, and reaches -45.76% for discounts above 30%. The 1,209 Furniture orders currently exceeding 10% discount are generating -$46,792.82 in combined losses. Capping discounts at 10% directly targets this loss pool while preserving healthy margin on the majority of orders.
 
 3. **Investigate Central region logistics** — Central posts 7.92% margin vs 14.94% in the West on similar sales volume ($501,239.89 vs $725,457.82). The gap is too large to be explained by product mix alone. A logistics cost and discount pattern audit in Central is the recommended next step.
 
